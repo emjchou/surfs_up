@@ -6,9 +6,9 @@ The purpose of this analysis is to collect Temperature trends and information in
 ## Results
 The images below display the Temperature Statistics for June and December:
 
-![June Temperature Statistics](Resources/June_Stats.png)
+![June Temperature Statistics](Resources/June_Stats.PNG)
 
-![December Temperature Statistics](Resources/Dec_Stats.png)
+![December Temperature Statistics](Resources/Dec_Stats.PNG)
 
 - The Count for June and December are both quite high, which makes the analysis more accurate.
 - June has a mean temperature of 74.9, whereas December has a mean temperature of 71.0. Although December has a slightly colder mean temperature, it's not colder by much, and is still appropriate for our purposes. 
